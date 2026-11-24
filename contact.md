@@ -22,6 +22,6 @@ Publisher and publication director: Philippe Dupuy.
 
 Contact the publisher: through his [LinkedIn profile](https://www.linkedin.com/in/philippe-dupuy-551ba6a8/).
 
-Host: OVH SAS, 2 rue Kellermann, 59100 Roubaix, France.
+Host: GitHub, Inc. (GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
 
 Cookies and personal data: this site sets no cookies, does not measure its audience and collects no personal data.
